@@ -1,0 +1,38 @@
+{
+  "fonte": "reviews.mjs (aggregateRating do JSON-LD), 11/10/2026",
+  "lojas": {
+    "lainly.com": {
+      "contagem_verificada": null,
+      "alegacao": "15,356 reviews; 87,000+ Christian women"
+    },
+    "wavao.com": {
+      "contagem_verificada": 4876,
+      "tipo": "piso, 12 produtos",
+      "apps": [
+        "loox"
+      ]
+    },
+    "lunavere.com": {
+      "contagem_verificada": 355,
+      "tipo": "piso, 12 produtos",
+      "apps": [
+        "loox"
+      ]
+    },
+    "worthisyou.com": {
+      "contagem_verificada": 996,
+      "tipo": "piso, 12 produtos",
+      "apps": [
+        "loox"
+      ]
+    },
+    "sugarspring.co": {
+      "contagem_verificada": 342,
+      "tipo": "piso, 12 produtos",
+      "apps": [
+        "loox"
+      ],
+      "alegacao": "OVER 355,000+ GIFTS DELIVERED; 13,000+ 5-star store reviews"
+    }
+  }
+}

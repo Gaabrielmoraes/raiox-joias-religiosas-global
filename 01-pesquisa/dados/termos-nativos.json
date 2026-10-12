@@ -1,0 +1,8 @@
+{
+  "_nota": "Foco pedido pelo usuário: joia religiosa como presente de família em datas e ritos. A matriz grava cada contagem sob uma chave comum; a busca foi feita com a palavra nativa abaixo. Termos de ocasião medem o mercado de presente daquele rito (qualquer produto), não só joia.",
+  "joia (amplo)":  {"US":"jewelry","GB":"jewellery","CA":"jewelry","AU":"jewellery","ES":"joyas","MX":"joyas","IT":"gioielli","FR":"bijoux","DE":"Schmuck","PL":"biżuteria"},
+  "colar de cruz": {"US":"cross necklace","GB":"cross necklace","CA":"cross necklace","AU":"cross necklace","ES":"collar cruz","MX":"collar de cruz","IT":"collana croce","FR":"collier croix","DE":"Kreuzkette","PL":"naszyjnik krzyż"},
+  "presente de comunhão": {"US":"first communion gift","GB":"first holy communion gift","CA":"first communion gift","AU":"first holy communion gift","ES":"regalo primera comunión","MX":"regalo primera comunión","IT":"regalo comunione","FR":"cadeau communion","DE":"Kommunion Geschenk","PL":"prezent na komunię"},
+  "presente de batizado": {"US":"baptism gift","GB":"baptism gift","CA":"baptism gift","AU":"baptism gift","ES":"regalo bautizo","MX":"regalo bautizo","IT":"regalo battesimo","FR":"cadeau baptême","DE":"Taufgeschenk","PL":"prezent na chrzest"},
+  "_inativos": "Contados só para 'joia (amplo)' e para 'colar de cruz' em US/GB/CA/AU/ES. Nos demais, não consultados: a contagem de inativos vem poluída por anúncios de novela (1,8 mi em 'cross necklace' US) e não mede o nicho."
+}

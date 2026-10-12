@@ -1,0 +1,33 @@
+{
+  "bloco": 12,
+  "coletado_em": "2026-10-11",
+  "foco": "joia religiosa como presente de família em datas e ritos (pedido do usuário)",
+  "metodo": "WebSearch em listagens e reviews (Walmart, Etsy), fórum The Bump e guias de presente. Reddit bloqueia o agente (HTTP 400). Herdado da pesquisa 'Joias Cristãs' (09/10/2026): objeções de material (esverdear, corrente fraca).",
+  "dores_objecoes": [
+    { "frase": "turned green after wearing it for about a week", "contexto": "objeção nº 1 de qualquer cruz barata; num presente vira vergonha para quem deu", "fonte": "review agregada (Fakespot / Walmart), pesquisa Joias Cristãs", "url": "https://fakespot.com/product/lcherry-faith-cross-necklace-hope-belive-pendant-necklace-religious-jewelry-for-women" },
+    { "frase": "jewelry around a baby's neck isn't safe", "contexto": "no batizado, o colar não é usado: vira lembrança guardada até a Primeira Comunhão. Quem vende 'baptism necklace' precisa vender a caixa e a guarda, não o uso", "fonte": "The Bump, guia de presentes de batizado", "url": "https://www.thebump.com/a/baptism-gifts-boys-girls?vers=1" },
+    { "frase": "the chain started to tarnish badly within a few wears", "contexto": "reclamação típica de joia banhada; num presente com cartão, o cartão dura mais que a corrente", "fonte": "Trustpilot (Tatty Devine), reclamação de categoria", "url": "https://ch.trustpilot.com/review/tattydevine.com?page=3" }
+  ],
+  "desejos": [
+    "um presente que 'diga algo' de quem dá para quem recebe (avó para neta, madrinha para afilhada, mãe para filha)",
+    "gravar o nome ou a data do rito (batizado, comunhão) no pingente",
+    "par combinando: madrinha e afilhada, mãe e filha",
+    "algo que fique como lembrança de família (keepsake) e possa ser abençoado pelo padre"
+  ],
+  "provas_que_o_comprador_quer": [
+    "cartão de mensagem impresso que diga o que a pessoa quer dizer (formato 'To My Granddaughter')",
+    "caixa de presente pronta, sem preço dentro",
+    "material que não esverdeia: aço 316L/PVD ou prata 925",
+    "gravação de nome/data",
+    "chegar antes da data (Natal, comunhão, batizado)"
+  ],
+  "ocasioes_e_avatar": [
+    "avó de 55 a 75 anos presenteando neta ou neto (Natal, aniversário, crisma, formatura)",
+    "madrinha presenteando afilhada no batizado ou na primeira comunhão",
+    "mãe presenteando filha (aniversário, crisma, formatura, casamento)",
+    "filhos presenteando a mãe (Dia das Mães, Natal)"
+  ],
+  "linguagem_literal": ["To My Granddaughter", "Always remember", "keepsake", "from Grandma", "godmother goddaughter", "blessed", "first communion", "baptism", "a gift she'll treasure"],
+  "leitura": "O mecanismo aqui é PRESENTE EMOCIONAL (quem paga é a avó, a madrinha, a mãe; quem usa é outra pessoa) com DATA que cria urgência. É o mecanismo de maior ticket e maior urgência da régua da skill. A objeção não é preço: é 'vai chegar a tempo?' e 'vai esverdear e me fazer passar vergonha?'. O cartão de mensagem e a caixa são parte do produto, não embalagem.",
+  "lacunas": "Reddit bloqueado. Nenhuma review com reação emocional literal ('she cried') encontrada nas listagens públicas consultadas. Comentários dos anúncios não são entregues pelo conector."
+}

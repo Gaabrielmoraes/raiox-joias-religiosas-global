@@ -1,0 +1,206 @@
+{
+  "product_handle": "mom-guardian-angel-necklace",
+  "competitor": "Lunavere",
+  "competitor_product_title": "Pearl of Grace Necklace",
+  "competitor_page": "https://lunavere.com/products/pearl-of-grace-necklace",
+  "competitor_json": "https://lunavere.com/products/pearl-of-grace-necklace.js",
+  "real_carousel_count": 17,
+  "downloaded_carousel_count": 12,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/cm_-_Buy_1_Get_1_FREE_5.png?v=1774749898",
+      "alt": "#color_gold",
+      "bytes": 1083148
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/POG_PIC_4_-_4_features_2048_x_2048_px.png?v=1774749898",
+      "alt": "#color_gold",
+      "bytes": 3165449
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Gold-Updated-Join5_000Women_2048x2048px.png?v=1780286852",
+      "alt": "#color_gold",
+      "bytes": 3699136
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/151.png?v=1774599128",
+      "alt": "#color_gold",
+      "bytes": 1049134
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/358.png?v=1773989468",
+      "alt": "#color_gold",
+      "bytes": 1106302
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/150.png?v=1773989468",
+      "alt": "#color_gold",
+      "bytes": 1143478
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image1.png?v=1777552849",
+      "alt": "#color_silver",
+      "bytes": 1130341
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image2.png?v=1777552850",
+      "alt": "#color_silver",
+      "bytes": 3992052
+    },
+    {
+      "position": 9,
+      "original_index_no_carrossel_real": 13,
+      "file": "carrossel-concorrente/referencia-09.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image4.png?v=1777552850",
+      "alt": "#color_silver",
+      "bytes": 3319758
+    },
+    {
+      "position": 10,
+      "original_index_no_carrossel_real": 14,
+      "file": "carrossel-concorrente/referencia-10.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image5.png?v=1777552850",
+      "alt": "#color_silver",
+      "bytes": 2194218
+    },
+    {
+      "position": 11,
+      "original_index_no_carrossel_real": 16,
+      "file": "carrossel-concorrente/referencia-11.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image7.png?v=1777552849",
+      "alt": "#color_silver",
+      "bytes": 1194246
+    },
+    {
+      "position": 12,
+      "original_index_no_carrossel_real": 17,
+      "file": "carrossel-concorrente/referencia-12.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image8.png?v=1777552850",
+      "alt": "#color_silver",
+      "bytes": 3246287
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "#color_gold",
+      "description": "#color_gold",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/cm_-_Buy_1_Get_1_FREE_5.png?v=1774749898",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 1 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_gold\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_gold\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "#color_gold",
+      "description": "#color_gold",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/POG_PIC_4_-_4_features_2048_x_2048_px.png?v=1774749898",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 2 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_gold\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_gold\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "#color_gold",
+      "description": "#color_gold",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Gold-Updated-Join5_000Women_2048x2048px.png?v=1780286852",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 3 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_gold\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_gold\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "#color_gold",
+      "description": "#color_gold",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/151.png?v=1774599128",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 4 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_gold\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_gold\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 5,
+      "type": "#color_gold",
+      "description": "#color_gold",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/358.png?v=1773989468",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 5 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_gold\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_gold\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 6,
+      "type": "#color_gold",
+      "description": "#color_gold",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/150.png?v=1773989468",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 6 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_gold\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_gold\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 7,
+      "type": "#color_silver",
+      "description": "#color_silver",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image1.png?v=1777552849",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 7 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_silver\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_silver\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 8,
+      "type": "#color_silver",
+      "description": "#color_silver",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image2.png?v=1777552850",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 8 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_silver\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_silver\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 9,
+      "type": "#color_silver",
+      "description": "#color_silver",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-09.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image4.png?v=1777552850",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 9 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_silver\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_silver\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 10,
+      "type": "#color_silver",
+      "description": "#color_silver",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-10.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image5.png?v=1777552850",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 10 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_silver\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_silver\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 11,
+      "type": "#color_silver",
+      "description": "#color_silver",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-11.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image7.png?v=1777552849",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 11 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_silver\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_silver\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 12,
+      "type": "#color_silver",
+      "description": "#color_silver",
+      "reference_file": "Referencia de imagens - cena e prompt/mom-guardian-angel-necklace/carrossel-concorrente/referencia-12.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image8.png?v=1777552850",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 12 of 12 in the To My Mom, Guardian Angel Necklace carousel (scene: \"#color_silver\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Mom, Guardian Angel Necklace Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"#color_silver\", from Lunavere). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Mom, Guardian Angel Necklace silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Mom, Guardian Angel Necklace Product Master photographs. Show A guardian angel pendant and a card that finally says thank you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+  ]
+}

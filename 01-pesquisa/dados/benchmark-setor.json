@@ -1,0 +1,19 @@
+{
+  "fonte": "IRP Commerce, eCommerce Market Data (https://www.irpcommerce.com/en/gb/ecommercemarketdata.aspx)",
+  "mes_referencia": "agosto/2026",
+  "coletado_em": "2026-10-11",
+  "observacao": "O IRP não publica setor de joias; usado Fashion Clothing & Accessories como substituto declarado. Lojas do Reino Unido (GBP).",
+  "setor_usado": "Fashion Clothing & Accessories",
+  "conversao_pct": 1.86,
+  "aov_gbp": 78.24,
+  "cpa_pct_receita": 9.06,
+  "cpc": null,
+  "cpc_obs": "IRP não publica CPC nesta edição",
+  "cpm_cpc_publico_meta": {
+    "fonte": "benchmarks públicos Meta 2026 citados em referencias/coleta.md (não verificados nesta rodada)",
+    "apparel_cpm": 9.23,
+    "apparel_cpc": 0.45,
+    "ecommerce_cpm": 10.42,
+    "ecommerce_cpc": 0.67
+  }
+}

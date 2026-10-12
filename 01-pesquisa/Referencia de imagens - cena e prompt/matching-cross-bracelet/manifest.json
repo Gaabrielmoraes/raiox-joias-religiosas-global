@@ -1,0 +1,60 @@
+{
+  "product_handle": "matching-cross-bracelet",
+  "competitor": "Lainly",
+  "competitor_product_title": "Sideways Cross Bracelet",
+  "competitor_page": "https://lainly.com/products/sideways-cross-bracelet",
+  "competitor_json": "https://lainly.com/products/sideways-cross-bracelet.js",
+  "real_carousel_count": 6,
+  "downloaded_carousel_count": 6,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/HeroSidewaysBracelet_4a6edd91-68dd-4ae9-9dcd-adc7a5fa219c.webp?v=1790964287",
+      "alt": null,
+      "bytes": 99749
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleSidewaysBracelet_c3be66d0-87a8-4ffd-ac1c-bc994afbc4f3.webp?v=1790964287",
+      "alt": null,
+      "bytes": 473214
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceSidewaysBracelet_9dcbd6a2-bf71-47fd-9aac-a4dc866f2307.webp?v=1790964287",
+      "alt": null,
+      "bytes": 409072
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleSilverSidewaysBracelet_631294f1-6cb0-494e-ad36-cff8a035d5ef.webp?v=1790964287",
+      "alt": null,
+      "bytes": 545431
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceSilverSidewaysBracelet_d969dbcc-5676-475c-896a-3ab4ae301197.webp?v=1790964287",
+      "alt": null,
+      "bytes": 400630
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/WaterproofSidewaysBracelet_af4d7f1c-1b92-4e45-8a22-44773d325a50.webp?v=1790964287",
+      "alt": null,
+      "bytes": 493470
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "product_handle": "mahogany-led-gift-box",
+  "competitor": "Sugar Spring",
+  "competitor_product_title": "To My Granddaughter - Forever Linked Hearts - Gift Set - SS117",
+  "competitor_page": "https://sugarspring.co/products/to-my-granddaughter-interlocked-hearts-gift-set-ss117",
+  "competitor_json": "https://sugarspring.co/products/to-my-granddaughter-interlocked-hearts-gift-set-ss117.js",
+  "real_carousel_count": 6,
+  "downloaded_carousel_count": 6,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-linked-hearts-gift-set-ss117-1193184573.jpg?v=1758056110",
+      "alt": "Jewelry To My Granddaughter - Forever Linked Hearts - Gift Set - SS117",
+      "bytes": 158833
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/products/jewelry-to-my-granddaughter-interlocked-hearts-gift-set-ss117-38550542024945.jpg?v=1758049930",
+      "alt": "Jewelry To My Granddaughter - Interlocked Hearts Gift Set - SS117",
+      "bytes": 160782
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-limited-edition-to-my-granddaughter-forever-linked-gift-set-ss117-40306024808689.jpg?v=1758049930",
+      "alt": "Jewelry [LIMITED EDITION] To My Granddaughter - Forever Linked - Gift Set - SS117",
+      "bytes": 110215
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/products/jewelry-to-my-granddaughter-interlocked-hearts-gift-set-ss117-38550542352625.jpg?v=1758049930",
+      "alt": "Jewelry To My Granddaughter - Interlocked Hearts Gift Set - SS117",
+      "bytes": 110515
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/products/jewelry-to-my-granddaughter-interlocked-hearts-gift-set-ss117-38550541861105.jpg?v=1758049930",
+      "alt": "Jewelry To My Granddaughter - Interlocked Hearts Gift Set - SS117",
+      "bytes": 61609
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/products/jewelry-to-my-granddaughter-interlocked-hearts-gift-set-ss117-38550542582001.jpg?v=1758049930",
+      "alt": "Jewelry To My Granddaughter - Interlocked Hearts Gift Set - SS117",
+      "bytes": 150648
+    }
+  ]
+}

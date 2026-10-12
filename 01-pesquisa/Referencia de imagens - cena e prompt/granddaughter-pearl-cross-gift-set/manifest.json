@@ -1,0 +1,60 @@
+{
+  "product_handle": "granddaughter-pearl-cross-gift-set",
+  "competitor": "Sugar Spring",
+  "competitor_product_title": "To My Granddaughter - Forever Love Gift Set - SS523",
+  "competitor_page": "https://sugarspring.co/products/to-my-granddaughter-forever-love-gift-set-ss523",
+  "competitor_json": "https://sugarspring.co/products/to-my-granddaughter-forever-love-gift-set-ss523.js",
+  "real_carousel_count": 6,
+  "downloaded_carousel_count": 6,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955126784241.jpg?v=1762460197",
+      "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+      "bytes": 198026
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955126882545.jpg?v=1686587358",
+      "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+      "bytes": 160684
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955231346929.jpg?v=1686588617",
+      "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+      "bytes": 133892
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955175248113.jpg?v=1686588484",
+      "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+      "bytes": 148043
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955134845169.jpg?v=1686588484",
+      "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+      "bytes": 105447
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955134746865.jpg?v=1686588484",
+      "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+      "bytes": 52173
+    }
+  ]
+}

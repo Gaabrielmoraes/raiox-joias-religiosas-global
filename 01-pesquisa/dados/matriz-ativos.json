@@ -1,0 +1,128 @@
+{
+  "fonte": "mcp-contagens.json (só ATIVOS, termos nativos)",
+  "coletado_em": "2026-10-11",
+  "nota": "Termos de rito (comunhão, batizado) medem o mercado de presente daquele rito, de qualquer produto, e estão fora de temporada em outubro (comunhão é abril-maio). Misturam anúncio de paróquia.",
+  "linhas": [
+    {
+      "pais": "US",
+      "joia": 178171,
+      "cruz": 11204,
+      "comunhao": 157,
+      "batizado": 467,
+      "razao_cruz": 0.0629,
+      "razao_comunhao": 0.0009,
+      "razao_batizado": 0.0026
+    },
+    {
+      "pais": "GB",
+      "joia": 24002,
+      "cruz": 4146,
+      "comunhao": 5,
+      "batizado": 143,
+      "razao_cruz": 0.1727,
+      "razao_comunhao": 0.0002,
+      "razao_batizado": 0.006
+    },
+    {
+      "pais": "CA",
+      "joia": 57831,
+      "cruz": 4083,
+      "comunhao": 63,
+      "batizado": 181,
+      "razao_cruz": 0.0706,
+      "razao_comunhao": 0.0011,
+      "razao_batizado": 0.0031
+    },
+    {
+      "pais": "AU",
+      "joia": 17890,
+      "cruz": 3760,
+      "comunhao": 10,
+      "batizado": 169,
+      "razao_cruz": 0.2102,
+      "razao_comunhao": 0.0006,
+      "razao_batizado": 0.0094
+    },
+    {
+      "pais": "ES",
+      "joia": 7673,
+      "cruz": 306,
+      "comunhao": 38,
+      "batizado": 49,
+      "razao_cruz": 0.0399,
+      "razao_comunhao": 0.005,
+      "razao_batizado": 0.0064
+    },
+    {
+      "pais": "MX",
+      "joia": 8450,
+      "cruz": 475,
+      "comunhao": 122,
+      "batizado": 164,
+      "razao_cruz": 0.0562,
+      "razao_comunhao": 0.0144,
+      "razao_batizado": 0.0194
+    },
+    {
+      "pais": "IT",
+      "joia": 7898,
+      "cruz": 44,
+      "comunhao": 42,
+      "batizado": 105,
+      "razao_cruz": 0.0056,
+      "razao_comunhao": 0.0053,
+      "razao_batizado": 0.0133
+    },
+    {
+      "pais": "FR",
+      "joia": 11530,
+      "cruz": 90,
+      "comunhao": 24,
+      "batizado": 127,
+      "razao_cruz": 0.0078,
+      "razao_comunhao": 0.0021,
+      "razao_batizado": 0.011
+    },
+    {
+      "pais": "DE",
+      "joia": 9630,
+      "cruz": 109,
+      "comunhao": 9,
+      "batizado": 11,
+      "razao_cruz": 0.0113,
+      "razao_comunhao": 0.0009,
+      "razao_batizado": 0.0011
+    },
+    {
+      "pais": "PL",
+      "joia": 5145,
+      "cruz": 83,
+      "comunhao": 43,
+      "batizado": 126,
+      "razao_cruz": 0.0161,
+      "razao_comunhao": 0.0084,
+      "razao_batizado": 0.0245
+    }
+  ],
+  "extra": {
+    "US_espanhol": {
+      "regalo primera comunión": 27,
+      "regalo bautizo": 30,
+      "medalla virgen": 5,
+      "nota": "público hispânico católico dentro dos EUA: quase nenhum anúncio de joia; 2 dos 3 com 1º anúncio fora do nicho"
+    },
+    "US_familia": {
+      "granddaughter necklace": 4129,
+      "to my granddaughter": 1701313,
+      "to my grandson cross": 198329,
+      "to my daughter necklace": 219419,
+      "goddaughter gift": 287,
+      "christmas cross necklace": 418,
+      "christian gift for mom": 11863,
+      "message card necklace": 2112,
+      "grandson necklace": 4416,
+      "guardian angel necklace": 372,
+      "qualidade": "INFLADA em todos: o 1º anúncio devolvido era novela, jogo ou outro produto. Não mede o nicho; o ângulo foi medido pela extração (anúncios que levam a loja de joia)."
+    }
+  }
+}

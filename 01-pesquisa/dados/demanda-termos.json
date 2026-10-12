@@ -1,0 +1,27 @@
+{
+  "pais": "US",
+  "coletado_em": "2026-10-11",
+  "fonte_contagem": "conector Meta Ads, ads_library_search, US, ACTIVE (estimated_total_count)",
+  "aviso": "A Biblioteca casa palavras soltas. Termos com 'daughter', 'mom', 'christmas', 'gift' puxam anúncio de novela e jogo: 'inflada' não mede o nicho. 'limpa' = o 1º anúncio devolvido era de joia. O ângulo de presente de família foi medido de verdade pela extração (anúncios que levam a loja de joia), na tela de Criativos.",
+  "termos": [
+    {"termo":"granddaughter cross necklace","ativos":501,"qualidade":"limpa","autocomplete":2,"intencao":"presente (avó para neta)","produto":"colar de cruz com cartão 'To My Granddaughter'"},
+    {"termo":"bible verse necklace","ativos":237,"qualidade":"limpa","autocomplete":2,"intencao":"comprar","produto":"colar de versículo"},
+    {"termo":"christian jewelry","ativos":2351,"qualidade":"limpa","autocomplete":2,"intencao":"pesquisar / comprar","produto":"categoria"},
+    {"termo":"guardian angel pendant","ativos":46,"qualidade":"inflada","autocomplete":6,"intencao":"presente / proteção","produto":"pingente de anjo da guarda"},
+    {"termo":"first communion cross necklace","ativos":23,"qualidade":"inflada","autocomplete":5,"intencao":"ocasião (comunhão, abril-maio)","produto":"cruz de primeira comunhão"},
+    {"termo":"first communion gift","ativos":157,"qualidade":"inflada","autocomplete":5,"intencao":"ocasião","produto":"presente de comunhão"},
+    {"termo":"baptism gift","ativos":467,"qualidade":"inflada","autocomplete":3,"intencao":"ocasião (o ano todo)","produto":"presente de batizado"},
+    {"termo":"grandson cross necklace","ativos":1732,"qualidade":"inflada","autocomplete":11,"intencao":"presente (avó para neto)","produto":"cruz masculina com cartão"},
+    {"termo":"granddaughter necklace","ativos":4129,"qualidade":"inflada","autocomplete":6,"intencao":"presente","produto":"colar para neta"},
+    {"termo":"grandson necklace","ativos":4416,"qualidade":"inflada","autocomplete":11,"intencao":"presente","produto":"colar para neto"},
+    {"termo":"to my daughter necklace","ativos":219419,"qualidade":"inflada","autocomplete":5,"intencao":"presente (mãe para filha)","produto":"colar com cartão"},
+    {"termo":"mother daughter cross necklace","ativos":2942,"qualidade":"inflada","autocomplete":5,"intencao":"presente / par","produto":"par mãe e filha"},
+    {"termo":"godmother goddaughter necklace","ativos":3,"qualidade":"inflada","autocomplete":4,"intencao":"ocasião (batizado)","produto":"par madrinha e afilhada"},
+    {"termo":"goddaughter gift","ativos":287,"qualidade":"inflada","autocomplete":2,"intencao":"ocasião","produto":"presente de afilhada"},
+    {"termo":"christian gift for mom","ativos":11863,"qualidade":"inflada","autocomplete":5,"intencao":"presente (Dia das Mães, Natal)","produto":"presente para mãe"},
+    {"termo":"christmas cross necklace","ativos":418,"qualidade":"inflada","autocomplete":3,"intencao":"ocasião (Natal)","produto":"cruz de Natal"},
+    {"termo":"message card necklace","ativos":2112,"qualidade":"inflada","autocomplete":0,"intencao":"formato de presente","produto":"colar com cartão"},
+    {"termo":"guardian angel necklace","ativos":372,"qualidade":"inflada","autocomplete":7,"intencao":"presente / proteção","produto":"colar de anjo da guarda"}
+  ],
+  "sem_contagem": ["grandson necklace from grandma","necklace from grandma to granddaughter","first communion necklaces for girls","religious christmas gifts for women","grandma present from baby necklace","grandson christening gifts crosses","personalized cross necklaces for grandma","christian gifts for mother's day","what is an appropriate confirmation gift"]
+}

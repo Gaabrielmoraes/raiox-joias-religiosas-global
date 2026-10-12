@@ -1,0 +1,126 @@
+{
+  "product_handle": "grandson-cross-chain-gift-set",
+  "competitor": "Worth Is You",
+  "competitor_product_title": "To My Grandson - \"Proud of You, Always\" Artisan Cross Cuban Link Chain Gift Set – GS01v3",
+  "competitor_page": "https://worthisyou.com/products/to-my-grandson-proud-of-you-always-artisan-cross-cuban-link-chain-gift-set-gs01v3",
+  "competitor_json": "https://worthisyou.com/products/to-my-grandson-proud-of-you-always-artisan-cross-cuban-link-chain-gift-set-gs01v3.js",
+  "real_carousel_count": 7,
+  "downloaded_carousel_count": 7,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/Listing_images_-_2025-11-14T043049.039.png?v=1763066311",
+      "alt": null,
+      "bytes": 1120440
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/Listing_images_-_2025-05-04T102123.774.png?v=1763066498",
+      "alt": null,
+      "bytes": 557849
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_20.png?v=1763066498",
+      "alt": null,
+      "bytes": 1007518
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_23.png?v=1763066498",
+      "alt": null,
+      "bytes": 1014647
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_22.png?v=1763066498",
+      "alt": null,
+      "bytes": 1040529
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/Listing_images_-_2025-05-04T103545.203.png?v=1763066498",
+      "alt": null,
+      "bytes": 1179990
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_21.png?v=1763066498",
+      "alt": null,
+      "bytes": 956505
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "Competitor carousel image 1 of 7",
+      "description": "Competitor carousel image 1 of 7, from the Worth Is You PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/grandson-cross-chain-gift-set/carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/Listing_images_-_2025-11-14T043049.039.png?v=1763066311",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 1 of 7 in the To My Grandson, Cross Chain Gift Set carousel (scene: \"Competitor carousel image 1 of 7\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Grandson, Cross Chain Gift Set Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 7\", from Worth Is You). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Grandson, Cross Chain Gift Set silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Grandson, Cross Chain Gift Set Product Master photographs. Show A strong cross on a 4mm chain and a card that tells him you are proud of him, and that he never walks alone.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "Competitor carousel image 2 of 7",
+      "description": "Competitor carousel image 2 of 7, from the Worth Is You PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/grandson-cross-chain-gift-set/carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/Listing_images_-_2025-05-04T102123.774.png?v=1763066498",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 2 of 7 in the To My Grandson, Cross Chain Gift Set carousel (scene: \"Competitor carousel image 2 of 7\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Grandson, Cross Chain Gift Set Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 7\", from Worth Is You). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Grandson, Cross Chain Gift Set silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Grandson, Cross Chain Gift Set Product Master photographs. Show A strong cross on a 4mm chain and a card that tells him you are proud of him, and that he never walks alone.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "Competitor carousel image 3 of 7",
+      "description": "Competitor carousel image 3 of 7, from the Worth Is You PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/grandson-cross-chain-gift-set/carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_20.png?v=1763066498",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 3 of 7 in the To My Grandson, Cross Chain Gift Set carousel (scene: \"Competitor carousel image 3 of 7\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Grandson, Cross Chain Gift Set Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 7\", from Worth Is You). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Grandson, Cross Chain Gift Set silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Grandson, Cross Chain Gift Set Product Master photographs. Show A strong cross on a 4mm chain and a card that tells him you are proud of him, and that he never walks alone.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "Competitor carousel image 4 of 7",
+      "description": "Competitor carousel image 4 of 7, from the Worth Is You PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/grandson-cross-chain-gift-set/carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_23.png?v=1763066498",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 4 of 7 in the To My Grandson, Cross Chain Gift Set carousel (scene: \"Competitor carousel image 4 of 7\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Grandson, Cross Chain Gift Set Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 7\", from Worth Is You). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Grandson, Cross Chain Gift Set silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Grandson, Cross Chain Gift Set Product Master photographs. Show A strong cross on a 4mm chain and a card that tells him you are proud of him, and that he never walks alone.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 5,
+      "type": "Competitor carousel image 5 of 7",
+      "description": "Competitor carousel image 5 of 7, from the Worth Is You PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/grandson-cross-chain-gift-set/carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_22.png?v=1763066498",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 5 of 7 in the To My Grandson, Cross Chain Gift Set carousel (scene: \"Competitor carousel image 5 of 7\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Grandson, Cross Chain Gift Set Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 7\", from Worth Is You). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Grandson, Cross Chain Gift Set silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Grandson, Cross Chain Gift Set Product Master photographs. Show A strong cross on a 4mm chain and a card that tells him you are proud of him, and that he never walks alone.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 6,
+      "type": "Competitor carousel image 6 of 7",
+      "description": "Competitor carousel image 6 of 7, from the Worth Is You PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/grandson-cross-chain-gift-set/carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/Listing_images_-_2025-05-04T103545.203.png?v=1763066498",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 6 of 7 in the To My Grandson, Cross Chain Gift Set carousel (scene: \"Competitor carousel image 6 of 7\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Grandson, Cross Chain Gift Set Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 7\", from Worth Is You). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Grandson, Cross Chain Gift Set silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Grandson, Cross Chain Gift Set Product Master photographs. Show A strong cross on a 4mm chain and a card that tells him you are proud of him, and that he never walks alone.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 7,
+      "type": "Competitor carousel image 7 of 7",
+      "description": "Competitor carousel image 7 of 7, from the Worth Is You PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/grandson-cross-chain-gift-set/carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_21.png?v=1763066498",
+      "prompt": "Create one premium e-commerce PDP image for Given in Grace. This is image 7 of 7 in the To My Grandson, Cross Chain Gift Set carousel (scene: \"Competitor carousel image 7 of 7\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached To My Grandson, Cross Chain Gift Set Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 7\", from Worth Is You). Build a premium, confident visual language for Given in Grace. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Given in Grace palette naturally: #4A1E25 as the primary brand color, #FBF7F0 as a clean neutral background, #5E7458 as a controlled accent (CTAs, highlights), #B8935A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact To My Grandson, Cross Chain Gift Set silhouette, materials, hardware, seams, colors and proportions shown in the separate To My Grandson, Cross Chain Gift Set Product Master photographs. Show A strong cross on a 4mm chain and a card that tells him you are proud of him, and that he never walks alone.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Given in Grace identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+Mineração — 10 tarefa(s) | pais=US | status=active | midia=all | max=200/tarefa
+Fonte: Biblioteca pública (o MCP não entrega copy, criativo nem landing page)
+
+== busca: to my granddaughter necklace
+    200 anúncios
+
+== busca: to my grandson cross necklace
+     38 anúncios
+
+== busca: to my daughter cross necklace
+    200 anúncios
+
+== busca: goddaughter gift necklace
+      4 anúncios
+
+== busca: baptism gift necklace
+      2 anúncios
+
+== busca: first communion necklace
+      1 anúncios
+
+== busca: christmas gift cross necklace
+    200 anúncios
+
+== busca: guardian angel necklace
+    200 anúncios
+
+== busca: gift for mom christian necklace
+    200 anúncios
+
+== busca: religious jewelry gift
+     13 anúncios
+
+=== RESULTADO ===
+anúncios únicos: 953   |   marcas: 426
+arquivo: C:\Users\Gabriel\OneDrive\00 - Digital\000 - Mentoria GlobalBrand\01 - Loja Gringa\Raiox - Joias Religiosas Global\01-pesquisa\dados\mineracao-2026-10-12-00-59.json
+
+=== ESCALA (tempo no ar · variações · nº de anúncios) ===
+ ord  dias  var  ads  sust  marca / domínio
+   1     4   54   30    --   ShortMax—GZ  → w2a.shorttv.live
+   2    44   78   12    --   A Alena Addisonu  → play.google.com
+   3   347   13   13   SIM  Atma Co.  → atmastore.com
+   4   385    9    4   SIM  Gifts For Family - AlmaGems.Com  → almagems.com
+   5  1218    2    2   SIM  Sugar Spring  → sugarspring.co
+   6    63   28   21   SIM  Pocket FM Stories  → itunes.apple.com
+   7   367    4    2   SIM  Inifis Gift Shop  → inifis.com
+   8   366    1    1   SIM  Atma Shop  → atmastore.com
+   9   328    3    3   SIM  Viole Grace  → violegrace.com
+  10   358    1    1   SIM  Atma  → atmastore.com
+  11    12   50   10    --   Steven James Anderson  → play.google.com
+  12   347    1    1   SIM  The Atma Company  → atmastore.com
+  13     4   33   19    --   Luna's Revenge  → heokwn.com
+  14    18   22   22    --   Margaret Bennett  → thecuriousbooks.com
+  15   327    1    1   SIM  Atma.  → atmastore.com
+sust = passou de 60 dias ininterruptos no ar (o anúncio já se pagou)
+
+=== COBERTURA DOS CAMPOS ===
+ 953/953  adArchiveId
+ 953/953  adLibraryUrl
+ 953/953  pageId
+ 953/953  pageName
+ 953/953  pageUrl
+ 786/953  pageProfilePictureUrl
+ 953/953  pageCategories
+ 953/953  pageLikeCount
+ 953/953  isActive
+ 953/953  startDate
+ 953/953  endDate
+ 953/953  platforms
+ 942/953  bodyText
+ 901/953  title
+ 952/953  ctaText
+ 952/953  ctaType
+ 949/953  linkUrl
+ 949/953  linkDomain
+ 949/953  linkCaption
+ 199/953  linkDescription
+ 953/953  displayFormat
+ 118/953  imageUrls
+ 835/953  videoUrls
+ 835/953  videoPreviewUrls
+ 953/953  categories
+ 953/953  containsAiMedia
+ 241/953  impressions
+   0/953  spend
+   0/953  currency
+ 953/953  gatedType
+ 769/953  collationCount
+  48/953  cardsCount

@@ -1,0 +1,255 @@
+
+============================================================
+veinci.com
+============================================================
+  plataforma : shopify
+  apps       : bold, gtag, gtm, klaviyo, snap, triplewhale, upcart
+  pixel meta : -
+  catalogo   : 250 produtos | mediana 37 | faixa 36-38 | desde 2026-10-11
+  campeao    : 2pc 14k Diamond Letter Initial Necklaces (38)
+  wayback    : 2023-12-28
+  tranco     : 1249720 subindo
+  sitemap    : 19 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @veincijewelry: 37K seguidores | 155 posts
+
+============================================================
+theasteria.co
+============================================================
+  plataforma : shopify
+  apps       : bold, gtm, loox, upcart
+  pixel meta : -
+  catalogo   : 58 produtos | mediana 599 | faixa 99-999 | desde 2026-05-05
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 15 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+wavao.com
+============================================================
+  plataforma : shopify
+  apps       : loox, snap, tiktok, vitals
+  pixel meta : -
+  catalogo   : 250 produtos | mediana 26.36 | faixa 15.36-109.99 | desde 2024-06-24
+  campeao    : To My GrandSon - You Will Never Lose - Baseball (25.29)
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 14 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+atmastore.com
+============================================================
+  plataforma : shopify
+  apps       : bold, gtag, gtm, klaviyo, snap, upcart
+  pixel meta : -
+  catalogo   : 250 produtos | mediana 36 | faixa 36-50 | desde 2026-10-11
+  campeao    : "My Angel" Set (46)
+  wayback    : 2013-08-12
+  tranco     : 1607994 subindo
+  sitemap    : 21 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @theatmaofficial: 57 seguidores | 19 posts
+
+============================================================
+almagems.com
+============================================================
+  plataforma : shopify
+  apps       : bold, gtag, gtm, judge.me, klaviyo, pinterest, snap, tiktok
+  pixel meta : -
+  catalogo   : 250 produtos | mediana 27.95 | faixa 18.95-89.95 | desde 2026-10-08
+  campeao    : To My Daughter In Law Life Has Given Me The Gift Of You Flowers - Personalized Stemless Wine Glass - DILA120_WIGL (27.95)
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : 289184 subindo
+  sitemap    : 145 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @almagems.official: 36K seguidores | 2,211 posts
+
+============================================================
+lunavere.com
+============================================================
+  plataforma : shopify
+  apps       : bold, clarity, klarna, loox, shoppay, upcart
+  pixel meta : -
+  catalogo   : 39 produtos | mediana 50 | faixa 30-97 | desde 2025-10-31
+  campeao    : Pearl of Grace Necklace (60)
+  wayback    : 2024-04-24
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 20 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @trylunavere: 3,568 seguidores | 88 posts
+
+============================================================
+sugarspring.co
+============================================================
+  plataforma : shopify
+  apps       : bold, gtag, gtm, klaviyo, loox, pinterest, tiktok, triplewhale, vitals
+  pixel meta : -
+  catalogo   : 250 produtos | mediana 79.95 | faixa 39.99-240 | desde 2023-07-10
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : 2022-12-09
+  tranco     : 4283831 subindo
+  sitemap    : 21 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @officialsugarspringco: 79K seguidores | 676 posts
+
+============================================================
+inifis.com
+============================================================
+  plataforma : shopify
+  apps       : afterpay, bold, gtag, klaviyo, loox, rebuy
+  pixel meta : -
+  catalogo   : 250 produtos | mediana 64.95 | faixa 3-199 | desde 2024-09-16
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : 2006-01-18
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 6 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @inifisgiftshop: 71 seguidores | 72 posts
+
+============================================================
+avera-paris.com
+============================================================
+  plataforma : shopify
+  apps       : bold, clarity, judge.me, klaviyo, pinterest, triplewhale
+  pixel meta : -
+  catalogo   : 121 produtos | mediana 149.47 | faixa 37.42-445.79 | desde 2026-02-17
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 72 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+lustravera.com
+============================================================
+  plataforma : shopify
+  apps       : bold, gtm, klarna, klaviyo, shoppay, snap, stamped, triplewhale, upcart
+  pixel meta : -
+  catalogo   : 14 produtos | mediana 39.95 | faixa 2.99-39.95 | desde 2025-11-07
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : 2025-02-21
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 6 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+taanaajewelry.com
+============================================================
+  plataforma : 
+  apps       : -
+  pixel meta : -
+  catalogo   : ERRO products.json inacessivel ou vazio
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : 2021-09-23
+  tranco     : 3873533 caindo
+  sitemap    : 0 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+kuevo-liora.com
+============================================================
+  plataforma : shopify
+  apps       : bold, clarity, gempages, gtag, klaviyo, loox, recharge, snap, tiktok, vitals
+  pixel meta : -
+  catalogo   : 250 produtos | mediana 38.95 | faixa 7.95-147.95 | desde 2026-03-16
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 6 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @kuevoandliora: 12K seguidores | 49 posts
+
+============================================================
+myheartgift.com
+============================================================
+  plataforma : ?
+  apps       : gtag, gtm, pinterest, recharge
+  pixel meta : 345119343046272
+  catalogo   : ERRO products.json inacessivel ou vazio
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 0 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+worthisyou.com
+============================================================
+  plataforma : shopify
+  apps       : bold, gtag, loox, pinterest
+  pixel meta : -
+  catalogo   : 73 produtos | mediana 79.95 | faixa 9.95-102.95 | desde 2024-12-07
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 13 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @worthisyou: 1,251 seguidores | 67 posts
+
+============================================================
+findagoodgift.com
+============================================================
+  plataforma : shopify
+  apps       : bold, tiktok
+  pixel meta : -
+  catalogo   : 250 produtos | mediana 35.95 | faixa 19.97-240 | desde 2023-05-25
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : sem registro no Wayback (dominio novo ou nunca arquivado)
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 6 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+sugarsmiles.co
+============================================================
+  plataforma : shopify
+  apps       : bold, gtag, loox, pinterest, snap
+  pixel meta : -
+  catalogo   : 111 produtos | mediana 59.95 | faixa 2.95-109.95 | desde 2025-05-03
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : 2025-12-04
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 8 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+hello-arlo.com
+============================================================
+  plataforma : shopify
+  apps       : bold, gtag, klaviyo, triplewhale, zipify
+  pixel meta : -
+  catalogo   : 21 produtos | mediana 65 | faixa 65-115 | desde 2025-01-22
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : 2024-12-31
+  tranco     : 4078251 subindo
+  sitemap    : 6 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  social     : nenhum perfil (indicio de 100% trafego pago)
+
+============================================================
+lainly.com
+============================================================
+  plataforma : shopify
+  apps       : bold, clarity, klaviyo, snap, tiktok
+  pixel meta : -
+  catalogo   : 64 produtos | mediana 39.99 | faixa 29.99-119.99 | desde 2025-08-26
+  campeao    : nenhuma colecao de best sellers publica encontrada
+  wayback    : 2021-12-09
+  tranco     : sem ranking (trafego abaixo do limiar do Tranco) 
+  sitemap    : 10 urls | 0 possiveis advertoriais
+  reviews    : Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)
+  @lainlybrand: 31K seguidores | 272 posts
+
+
+Salvo em C:\Users\Gabriel\OneDrive\00 - Digital\000 - Mentoria GlobalBrand\01 - Loja Gringa\Raiox - Joias Religiosas Global\01-pesquisa\dados\coleta-bruta\dados-brutos.json

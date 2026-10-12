@@ -1,0 +1,60 @@
+{
+  "coletado_em": "2026-10-11",
+  "lojas": [
+    {
+      "loja": "Lainly",
+      "dominio": "lainly.com",
+      "page_ids": [
+        "404837506046234"
+      ],
+      "ativos": 447,
+      "historico": 447,
+      "sobrevivencia_pct": null,
+      "nota": "ALL = ACTIVE; INACTIVE = 0 na Biblioteca (medido em 09/10/2026 na pesquisa Joias Cristãs, mesma página). Ativos caíram de 470 para 447 em 2 dias."
+    },
+    {
+      "loja": "Wavao",
+      "dominio": "wavao.com",
+      "page_ids": [
+        "111282690578976"
+      ],
+      "ativos": 176,
+      "historico": 1179,
+      "sobrevivencia_pct": 14.9,
+      "nota": ""
+    },
+    {
+      "loja": "Lunavere",
+      "dominio": "lunavere.com",
+      "page_ids": [
+        "331681860036240"
+      ],
+      "ativos": 190,
+      "historico": 748,
+      "sobrevivencia_pct": 25.4,
+      "nota": ""
+    },
+    {
+      "loja": "Worth Is You",
+      "dominio": "worthisyou.com",
+      "page_ids": [
+        "336902736169734"
+      ],
+      "ativos": 47,
+      "historico": 47,
+      "sobrevivencia_pct": null,
+      "nota": "ALL = ACTIVE: os 47 anúncios foram criados desde junho/2026 e seguem no ar"
+    },
+    {
+      "loja": "Sugar Spring",
+      "dominio": "sugarspring.co",
+      "page_ids": [
+        "110433308214219"
+      ],
+      "ativos": 40,
+      "historico": 40,
+      "sobrevivencia_pct": null,
+      "nota": "ALL = ACTIVE: anúncios desde junho/2023 ainda no ar; operação enxuta que mantém vencedores"
+    }
+  ]
+}

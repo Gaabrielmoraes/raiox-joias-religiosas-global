@@ -1,0 +1,108 @@
+{
+  "product_handle": "mom-guardian-angel-necklace",
+  "competitor": "Lunavere",
+  "competitor_product_title": "Pearl of Grace Necklace",
+  "competitor_page": "https://lunavere.com/products/pearl-of-grace-necklace",
+  "competitor_json": "https://lunavere.com/products/pearl-of-grace-necklace.js",
+  "real_carousel_count": 17,
+  "downloaded_carousel_count": 12,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/cm_-_Buy_1_Get_1_FREE_5.png?v=1774749898",
+      "alt": "#color_gold",
+      "bytes": 1083148
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/POG_PIC_4_-_4_features_2048_x_2048_px.png?v=1774749898",
+      "alt": "#color_gold",
+      "bytes": 3165449
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Gold-Updated-Join5_000Women_2048x2048px.png?v=1780286852",
+      "alt": "#color_gold",
+      "bytes": 3699136
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/151.png?v=1774599128",
+      "alt": "#color_gold",
+      "bytes": 1049134
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/358.png?v=1773989468",
+      "alt": "#color_gold",
+      "bytes": 1106302
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/150.png?v=1773989468",
+      "alt": "#color_gold",
+      "bytes": 1143478
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image1.png?v=1777552849",
+      "alt": "#color_silver",
+      "bytes": 1130341
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image2.png?v=1777552850",
+      "alt": "#color_silver",
+      "bytes": 3992052
+    },
+    {
+      "position": 9,
+      "original_index_no_carrossel_real": 13,
+      "file": "carrossel-concorrente/referencia-09.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image4.png?v=1777552850",
+      "alt": "#color_silver",
+      "bytes": 3319758
+    },
+    {
+      "position": 10,
+      "original_index_no_carrossel_real": 14,
+      "file": "carrossel-concorrente/referencia-10.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image5.png?v=1777552850",
+      "alt": "#color_silver",
+      "bytes": 2194218
+    },
+    {
+      "position": 11,
+      "original_index_no_carrossel_real": 16,
+      "file": "carrossel-concorrente/referencia-11.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image7.png?v=1777552849",
+      "alt": "#color_silver",
+      "bytes": 1194246
+    },
+    {
+      "position": 12,
+      "original_index_no_carrossel_real": 17,
+      "file": "carrossel-concorrente/referencia-12.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image8.png?v=1777552850",
+      "alt": "#color_silver",
+      "bytes": 3246287
+    }
+  ]
+}

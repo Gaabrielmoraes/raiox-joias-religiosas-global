@@ -1,0 +1,35 @@
+{
+ "lainly.com": {
+  "anuncia": true,
+  "contagem": 73,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=lainly.com"
+ },
+ "wavao.com": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=wavao.com"
+ },
+ "lunavere.com": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=lunavere.com"
+ },
+ "worthisyou.com": {
+  "anuncia": true,
+  "contagem": 20,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=worthisyou.com"
+ },
+ "sugarspring.co": {
+  "anuncia": true,
+  "contagem": 52,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=sugarspring.co"
+ }
+}

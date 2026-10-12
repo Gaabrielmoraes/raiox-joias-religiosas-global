@@ -1,0 +1,76 @@
+{
+  "product_handle": "goddaughter-baptism-cross-keepsake",
+  "competitor": "Lainly",
+  "competitor_product_title": "Crown Cross Necklace",
+  "competitor_page": "https://lainly.com/products/cross-crown-necklace",
+  "competitor_json": "https://lainly.com/products/cross-crown-necklace.js",
+  "real_carousel_count": 8,
+  "downloaded_carousel_count": 8,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/HeroCrownNecklace_530add7f-cbda-43b0-83ba-7ecceb26cbde.webp?v=1790191362",
+      "alt": null,
+      "bytes": 115426
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleCrownNecklace30YO.webp?v=1790203764",
+      "alt": null,
+      "bytes": 465882
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceCrownNecklace_6b31a4a1-f753-457c-ba54-135f5d27a11b.webp?v=1790191362",
+      "alt": null,
+      "bytes": 297487
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleSilverCrownNecklace30YO.webp?v=1790203764",
+      "alt": null,
+      "bytes": 500636
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceSilverCrownNecklace_bfa721a9-2e34-4ee5-9f24-fa081a949128.webp?v=1790191362",
+      "alt": null,
+      "bytes": 321710
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleRoseGoldCrownNecklace30YO.webp?v=1790203764",
+      "alt": null,
+      "bytes": 515264
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceRoseGoldCrownNecklace_3d34200d-48b2-47ab-ade9-0ab2a0f24e13.webp?v=1790191362",
+      "alt": null,
+      "bytes": 343103
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/WaterproofCrownNecklace30YO.webp?v=1790203764",
+      "alt": null,
+      "bytes": 536777
+    }
+  ]
+}

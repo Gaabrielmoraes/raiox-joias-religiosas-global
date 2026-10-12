@@ -1,0 +1,169 @@
+{
+  "data": "2026-10-11",
+  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL)",
+  "lojas": [
+    {
+      "loja": "Lainly",
+      "dominio": "lainly.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "404837506046234"
+      ],
+      "tentativas": [
+        "linkDomain dos anúncios extraídos (minerar.js)",
+        "search_terms=lainly.com ALL"
+      ],
+      "reportado": {
+        "ativos": 447,
+        "historico": 447
+      },
+      "biblioteca": {
+        "ativos": 447,
+        "historico": 447
+      },
+      "nota": "ALL = ACTIVE; INACTIVE = 0 na Biblioteca (medido em 09/10/2026 na pesquisa Joias Cristãs, mesma página). Ativos caíram de 470 para 447 em 2 dias."
+    },
+    {
+      "loja": "Wavao",
+      "dominio": "wavao.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "111282690578976"
+      ],
+      "tentativas": [
+        "linkDomain dos anúncios extraídos (minerar.js)",
+        "search_terms=wavao.com ALL"
+      ],
+      "reportado": {
+        "ativos": 176,
+        "historico": 1179
+      },
+      "biblioteca": {
+        "ativos": 176,
+        "historico": 1179
+      },
+      "nota": ""
+    },
+    {
+      "loja": "Lunavere",
+      "dominio": "lunavere.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "331681860036240"
+      ],
+      "tentativas": [
+        "linkDomain dos anúncios extraídos (minerar.js)",
+        "search_terms=lunavere.com ALL"
+      ],
+      "reportado": {
+        "ativos": 190,
+        "historico": 748
+      },
+      "biblioteca": {
+        "ativos": 190,
+        "historico": 748
+      },
+      "nota": ""
+    },
+    {
+      "loja": "Worth Is You",
+      "dominio": "worthisyou.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "336902736169734"
+      ],
+      "tentativas": [
+        "linkDomain dos anúncios extraídos (minerar.js)",
+        "search_terms=worthisyou.com ALL"
+      ],
+      "reportado": {
+        "ativos": 47,
+        "historico": 47
+      },
+      "biblioteca": {
+        "ativos": 47,
+        "historico": 47
+      },
+      "nota": "ALL = ACTIVE: os 47 anúncios foram criados desde junho/2026 e seguem no ar"
+    },
+    {
+      "loja": "Sugar Spring",
+      "dominio": "sugarspring.co",
+      "metodo": "dominio",
+      "page_ids": [
+        "110433308214219"
+      ],
+      "tentativas": [
+        "linkDomain dos anúncios extraídos (minerar.js)",
+        "search_terms=sugarspring.co ALL"
+      ],
+      "reportado": {
+        "ativos": 40,
+        "historico": 40
+      },
+      "biblioteca": {
+        "ativos": 40,
+        "historico": 40
+      },
+      "nota": "ALL = ACTIVE: anúncios desde junho/2023 ainda no ar; operação enxuta que mantém vencedores"
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-10-12",
+    "aprovado": true,
+    "problemas": [],
+    "avisos": [],
+    "lojas": [
+      {
+        "loja": "Lainly",
+        "dominio": "lainly.com",
+        "metodo": "dominio",
+        "reportado_ativos": 447,
+        "biblioteca_ativos": 447,
+        "biblioteca_historico": 447,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Wavao",
+        "dominio": "wavao.com",
+        "metodo": "dominio",
+        "reportado_ativos": 176,
+        "biblioteca_ativos": 176,
+        "biblioteca_historico": 1179,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Lunavere",
+        "dominio": "lunavere.com",
+        "metodo": "dominio",
+        "reportado_ativos": 190,
+        "biblioteca_ativos": 190,
+        "biblioteca_historico": 748,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Worth Is You",
+        "dominio": "worthisyou.com",
+        "metodo": "dominio",
+        "reportado_ativos": 47,
+        "biblioteca_ativos": 47,
+        "biblioteca_historico": 47,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Sugar Spring",
+        "dominio": "sugarspring.co",
+        "metodo": "dominio",
+        "reportado_ativos": 40,
+        "biblioteca_ativos": 40,
+        "biblioteca_historico": 40,
+        "divergencia_pct": 0,
+        "ok": true
+      }
+    ]
+  }
+}

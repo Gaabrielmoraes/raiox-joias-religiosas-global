@@ -1,0 +1,89 @@
+{
+ "sugarspring.co": {
+  "dominio": "sugarspring.co",
+  "produtos": [
+   {
+    "handle": "remember-whose-daughter-you-are-beautiful-gift-set-ss164v2",
+    "reviewCount": 7,
+    "ratingValue": "4.7",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "remember-whose-daughter-you-are-cuff-bracelet",
+    "reviewCount": 2,
+    "ratingValue": "4.5",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "to-my-daughter-love-mom-beautiful-gift-set-ss164",
+    "reviewCount": 1,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "remember-whose-daughter-you-are-love-mom-beautiful-gift-set-ss164",
+    "reviewCount": 1,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "remember-whose-granddaughter-you-are-beautiful-gift-set-ss127",
+    "reviewCount": 5,
+    "ratingValue": "4.6",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "remember-whose-granddaughter-you-are-beautiful-gift-set-ss135",
+    "reviewCount": 3,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "to-my-granddaughter-love-grandpa-beautiful-gift-set-ss152",
+    "reviewCount": 33,
+    "ratingValue": "4.8",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "remember-whose-granddaughter-you-are-love-knot-gift-set-ss477gp",
+    "reviewCount": 283,
+    "ratingValue": "4.8",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "to-my-granddaughter-love-grandpa-gift-set-ss94",
+    "reviewCount": 3,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "whenever-your-crown-gets-heavy-remember-whose-daughter-you-are-cuff-bracelet-ss489",
+    "reviewCount": 2,
+    "ratingValue": "4.5",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "to-my-granddaughter-love-grandpa-gift-set-ss94v2",
+    "reviewCount": 1,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "to-my-granddaughter-twists-turns-beautiful-gift-set-ss109v4",
+    "reviewCount": 1,
+    "ratingValue": "4.0",
+    "fonte": "schema.org"
+   }
+  ],
+  "declarado_home": null,
+  "apps_review": [
+   "loox"
+  ],
+  "pedidos_estimados": {
+   "base_reviews": 342,
+   "fonte_base": "soma de 12 produtos amostrados (piso, nao total)",
+   "a_3pct": 11400,
+   "a_1pct": 34200
+  }
+ }
+}

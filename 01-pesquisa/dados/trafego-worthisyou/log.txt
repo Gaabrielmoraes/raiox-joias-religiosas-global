@@ -1,0 +1,7 @@
+
+== worthisyou.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 3 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+
+== worthisyou.com | tentativa 2/5
+   bloqueado pelo CloudFront. aguardando 4 min...

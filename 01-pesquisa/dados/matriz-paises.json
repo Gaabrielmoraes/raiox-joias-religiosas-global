@@ -1,0 +1,420 @@
+{
+  "fonte": "MCP (conector Meta Ads)",
+  "geradoEm": "2026-10-12T00:48:17.637Z",
+  "paises": [
+    "US",
+    "GB",
+    "CA",
+    "AU",
+    "ES",
+    "MX",
+    "IT",
+    "FR",
+    "DE",
+    "PL"
+  ],
+  "termos": [
+    "joia (amplo)",
+    "colar de cruz",
+    "presente de comunhão",
+    "presente de batizado"
+  ],
+  "celulas": [
+    {
+      "pais": "US",
+      "termo": "joia (amplo)",
+      "ativos": 178171,
+      "inativos": 13882687,
+      "total": 14060858,
+      "vivos_pct": 0.0127,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 178171,
+      "assimetria": null
+    },
+    {
+      "pais": "US",
+      "termo": "colar de cruz",
+      "ativos": 11204,
+      "inativos": 1815272,
+      "total": 1826476,
+      "vivos_pct": 0.0061,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 178171,
+      "assimetria": 0.0629
+    },
+    {
+      "pais": "US",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "US",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "GB",
+      "termo": "joia (amplo)",
+      "ativos": 24002,
+      "inativos": 791491,
+      "total": 815493,
+      "vivos_pct": 0.0294,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 24002,
+      "assimetria": null
+    },
+    {
+      "pais": "GB",
+      "termo": "colar de cruz",
+      "ativos": 4146,
+      "inativos": 1559539,
+      "total": 1563685,
+      "vivos_pct": 0.0027,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 24002,
+      "assimetria": 0.1727
+    },
+    {
+      "pais": "GB",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "GB",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "CA",
+      "termo": "joia (amplo)",
+      "ativos": 57831,
+      "inativos": 9006439,
+      "total": 9064270,
+      "vivos_pct": 0.0064,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 57831,
+      "assimetria": null
+    },
+    {
+      "pais": "CA",
+      "termo": "colar de cruz",
+      "ativos": 4083,
+      "inativos": 1188136,
+      "total": 1192219,
+      "vivos_pct": 0.0034,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 57831,
+      "assimetria": 0.0706
+    },
+    {
+      "pais": "CA",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "CA",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "AU",
+      "termo": "joia (amplo)",
+      "ativos": 17890,
+      "inativos": 372324,
+      "total": 390214,
+      "vivos_pct": 0.0458,
+      "porte": "grande",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 17890,
+      "assimetria": null
+    },
+    {
+      "pais": "AU",
+      "termo": "colar de cruz",
+      "ativos": 3760,
+      "inativos": 1175211,
+      "total": 1178971,
+      "vivos_pct": 0.0032,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 17890,
+      "assimetria": 0.2102
+    },
+    {
+      "pais": "AU",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "AU",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "ES",
+      "termo": "joia (amplo)",
+      "ativos": 7673,
+      "inativos": 896901,
+      "total": 904574,
+      "vivos_pct": 0.0085,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 7673,
+      "assimetria": null
+    },
+    {
+      "pais": "ES",
+      "termo": "colar de cruz",
+      "ativos": 306,
+      "inativos": 47865,
+      "total": 48171,
+      "vivos_pct": 0.0064,
+      "porte": "normal",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 7673,
+      "assimetria": 0.0399
+    },
+    {
+      "pais": "ES",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "ES",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "MX",
+      "termo": "joia (amplo)",
+      "ativos": 8450,
+      "inativos": 727523,
+      "total": 735973,
+      "vivos_pct": 0.0115,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 8450,
+      "assimetria": null
+    },
+    {
+      "pais": "MX",
+      "termo": "colar de cruz",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "MX",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "MX",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "IT",
+      "termo": "joia (amplo)",
+      "ativos": 7898,
+      "inativos": 316417,
+      "total": 324315,
+      "vivos_pct": 0.0244,
+      "porte": "grande",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 7898,
+      "assimetria": null
+    },
+    {
+      "pais": "IT",
+      "termo": "colar de cruz",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "IT",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "IT",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "FR",
+      "termo": "joia (amplo)",
+      "ativos": 11530,
+      "inativos": 630431,
+      "total": 641961,
+      "vivos_pct": 0.018,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 11530,
+      "assimetria": null
+    },
+    {
+      "pais": "FR",
+      "termo": "colar de cruz",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "FR",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "FR",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "DE",
+      "termo": "joia (amplo)",
+      "ativos": 9630,
+      "inativos": 725044,
+      "total": 734674,
+      "vivos_pct": 0.0131,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 9630,
+      "assimetria": null
+    },
+    {
+      "pais": "DE",
+      "termo": "colar de cruz",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "DE",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "DE",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "PL",
+      "termo": "joia (amplo)",
+      "ativos": 5145,
+      "inativos": 132990,
+      "total": 138135,
+      "vivos_pct": 0.0372,
+      "porte": "grande",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 5145,
+      "assimetria": null
+    },
+    {
+      "pais": "PL",
+      "termo": "colar de cruz",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "PL",
+      "termo": "presente de comunhão",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "pais": "PL",
+      "termo": "presente de batizado",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    }
+  ],
+  "alvos": [
+    {
+      "pais": "US",
+      "termo": "colar de cruz",
+      "ativos": 11204,
+      "inativos": 1815272,
+      "total": 1826476,
+      "vivos_pct": 0.0061,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 178171,
+      "assimetria": 0.0629
+    },
+    {
+      "pais": "CA",
+      "termo": "colar de cruz",
+      "ativos": 4083,
+      "inativos": 1188136,
+      "total": 1192219,
+      "vivos_pct": 0.0034,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 57831,
+      "assimetria": 0.0706
+    },
+    {
+      "pais": "GB",
+      "termo": "colar de cruz",
+      "ativos": 4146,
+      "inativos": 1559539,
+      "total": 1563685,
+      "vivos_pct": 0.0027,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 24002,
+      "assimetria": 0.1727
+    },
+    {
+      "pais": "AU",
+      "termo": "colar de cruz",
+      "ativos": 3760,
+      "inativos": 1175211,
+      "total": 1178971,
+      "vivos_pct": 0.0032,
+      "porte": "gigante",
+      "contagem_exata": true,
+      "cemiterio": true,
+      "mercado_do_pais": 17890,
+      "assimetria": 0.2102
+    }
+  ],
+  "mediana_mercado": 9630,
+  "cemiterios": [
+    "US/joia (amplo)",
+    "US/colar de cruz",
+    "GB/joia (amplo)",
+    "GB/colar de cruz",
+    "CA/joia (amplo)",
+    "CA/colar de cruz",
+    "AU/joia (amplo)",
+    "AU/colar de cruz",
+    "ES/joia (amplo)",
+    "ES/colar de cruz",
+    "MX/joia (amplo)",
+    "IT/joia (amplo)",
+    "FR/joia (amplo)",
+    "DE/joia (amplo)",
+    "PL/joia (amplo)"
+  ],
+  "limite_idioma": "os termos foram usados como vieram. Em país de outra língua isto mede o anúncio NAQUELE termo, não o mercado inteiro do país: para medir o mercado nativo, os termos precisam sair no vocabulário local, e isso é julgamento humano, não tradução de dicionário",
+  "limite_saturacao": null,
+  "cobertura_consultas": 0.6875,
+  "cobertura_consultas_texto": "55 de 80 consultas voltaram sem erro"
+}

@@ -1,0 +1,647 @@
+{
+  "fonte": "MCP (conector Meta Ads)",
+  "geradoEm": "2026-10-12T00:48:16.699Z",
+  "idioma": "termos nativos por país (ver termos-nativos.json)",
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "joia (amplo)",
+      "termo_nativo": "jewelry",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 178171
+    },
+    {
+      "id": 2,
+      "termo": "joia (amplo)",
+      "termo_nativo": "jewelry",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 13882687
+    },
+    {
+      "id": 3,
+      "termo": "joia (amplo)",
+      "termo_nativo": "jewellery",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 24002
+    },
+    {
+      "id": 4,
+      "termo": "joia (amplo)",
+      "termo_nativo": "jewellery",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 791491
+    },
+    {
+      "id": 5,
+      "termo": "joia (amplo)",
+      "termo_nativo": "jewelry",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 57831
+    },
+    {
+      "id": 6,
+      "termo": "joia (amplo)",
+      "termo_nativo": "jewelry",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 9006439
+    },
+    {
+      "id": 7,
+      "termo": "joia (amplo)",
+      "termo_nativo": "jewellery",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 17890
+    },
+    {
+      "id": 8,
+      "termo": "joia (amplo)",
+      "termo_nativo": "jewellery",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 372324
+    },
+    {
+      "id": 9,
+      "termo": "joia (amplo)",
+      "termo_nativo": "joyas",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 7673
+    },
+    {
+      "id": 10,
+      "termo": "joia (amplo)",
+      "termo_nativo": "joyas",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 896901
+    },
+    {
+      "id": 11,
+      "termo": "joia (amplo)",
+      "termo_nativo": "joyas",
+      "pais": "MX",
+      "status": "ACTIVE",
+      "total": 8450
+    },
+    {
+      "id": 12,
+      "termo": "joia (amplo)",
+      "termo_nativo": "joyas",
+      "pais": "MX",
+      "status": "INACTIVE",
+      "total": 727523
+    },
+    {
+      "id": 13,
+      "termo": "joia (amplo)",
+      "termo_nativo": "gioielli",
+      "pais": "IT",
+      "status": "ACTIVE",
+      "total": 7898
+    },
+    {
+      "id": 14,
+      "termo": "joia (amplo)",
+      "termo_nativo": "gioielli",
+      "pais": "IT",
+      "status": "INACTIVE",
+      "total": 316417
+    },
+    {
+      "id": 15,
+      "termo": "joia (amplo)",
+      "termo_nativo": "bijoux",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 11530
+    },
+    {
+      "id": 16,
+      "termo": "joia (amplo)",
+      "termo_nativo": "bijoux",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 630431
+    },
+    {
+      "id": 17,
+      "termo": "joia (amplo)",
+      "termo_nativo": "Schmuck",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 9630
+    },
+    {
+      "id": 18,
+      "termo": "joia (amplo)",
+      "termo_nativo": "Schmuck",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 725044
+    },
+    {
+      "id": 19,
+      "termo": "joia (amplo)",
+      "termo_nativo": "biżuteria",
+      "pais": "PL",
+      "status": "ACTIVE",
+      "total": 5145
+    },
+    {
+      "id": 20,
+      "termo": "joia (amplo)",
+      "termo_nativo": "biżuteria",
+      "pais": "PL",
+      "status": "INACTIVE",
+      "total": 132990
+    },
+    {
+      "id": 21,
+      "termo": "colar de cruz",
+      "termo_nativo": "cross necklace",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 11204
+    },
+    {
+      "id": 22,
+      "termo": "colar de cruz",
+      "termo_nativo": "cross necklace",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 1815272
+    },
+    {
+      "id": 23,
+      "termo": "colar de cruz",
+      "termo_nativo": "cross necklace",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 4146
+    },
+    {
+      "id": 24,
+      "termo": "colar de cruz",
+      "termo_nativo": "cross necklace",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 1559539
+    },
+    {
+      "id": 25,
+      "termo": "colar de cruz",
+      "termo_nativo": "cross necklace",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 4083
+    },
+    {
+      "id": 26,
+      "termo": "colar de cruz",
+      "termo_nativo": "cross necklace",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 1188136
+    },
+    {
+      "id": 27,
+      "termo": "colar de cruz",
+      "termo_nativo": "cross necklace",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 3760
+    },
+    {
+      "id": 28,
+      "termo": "colar de cruz",
+      "termo_nativo": "cross necklace",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 1175211
+    },
+    {
+      "id": 29,
+      "termo": "colar de cruz",
+      "termo_nativo": "collar cruz",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 306
+    },
+    {
+      "id": 30,
+      "termo": "colar de cruz",
+      "termo_nativo": "collar cruz",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 47865
+    },
+    {
+      "id": 31,
+      "termo": "colar de cruz",
+      "termo_nativo": "collar de cruz",
+      "pais": "MX",
+      "status": "ACTIVE",
+      "total": 475
+    },
+    {
+      "id": 32,
+      "termo": "colar de cruz",
+      "termo_nativo": "collar de cruz",
+      "pais": "MX",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 33,
+      "termo": "colar de cruz",
+      "termo_nativo": "collana croce",
+      "pais": "IT",
+      "status": "ACTIVE",
+      "total": 44
+    },
+    {
+      "id": 34,
+      "termo": "colar de cruz",
+      "termo_nativo": "collana croce",
+      "pais": "IT",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 35,
+      "termo": "colar de cruz",
+      "termo_nativo": "collier croix",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 90
+    },
+    {
+      "id": 36,
+      "termo": "colar de cruz",
+      "termo_nativo": "collier croix",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 37,
+      "termo": "colar de cruz",
+      "termo_nativo": "Kreuzkette",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 109
+    },
+    {
+      "id": 38,
+      "termo": "colar de cruz",
+      "termo_nativo": "Kreuzkette",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 39,
+      "termo": "colar de cruz",
+      "termo_nativo": "naszyjnik krzyż",
+      "pais": "PL",
+      "status": "ACTIVE",
+      "total": 83
+    },
+    {
+      "id": 40,
+      "termo": "colar de cruz",
+      "termo_nativo": "naszyjnik krzyż",
+      "pais": "PL",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 41,
+      "termo": "presente de comunhão",
+      "termo_nativo": "first communion gift",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 157
+    },
+    {
+      "id": 42,
+      "termo": "presente de comunhão",
+      "termo_nativo": "first communion gift",
+      "pais": "US",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 43,
+      "termo": "presente de comunhão",
+      "termo_nativo": "first holy communion gift",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 5
+    },
+    {
+      "id": 44,
+      "termo": "presente de comunhão",
+      "termo_nativo": "first holy communion gift",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 45,
+      "termo": "presente de comunhão",
+      "termo_nativo": "first communion gift",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 63
+    },
+    {
+      "id": 46,
+      "termo": "presente de comunhão",
+      "termo_nativo": "first communion gift",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 47,
+      "termo": "presente de comunhão",
+      "termo_nativo": "first holy communion gift",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 10
+    },
+    {
+      "id": 48,
+      "termo": "presente de comunhão",
+      "termo_nativo": "first holy communion gift",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 49,
+      "termo": "presente de comunhão",
+      "termo_nativo": "regalo primera comunión",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 38
+    },
+    {
+      "id": 50,
+      "termo": "presente de comunhão",
+      "termo_nativo": "regalo primera comunión",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 51,
+      "termo": "presente de comunhão",
+      "termo_nativo": "regalo primera comunión",
+      "pais": "MX",
+      "status": "ACTIVE",
+      "total": 122
+    },
+    {
+      "id": 52,
+      "termo": "presente de comunhão",
+      "termo_nativo": "regalo primera comunión",
+      "pais": "MX",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 53,
+      "termo": "presente de comunhão",
+      "termo_nativo": "regalo comunione",
+      "pais": "IT",
+      "status": "ACTIVE",
+      "total": 42
+    },
+    {
+      "id": 54,
+      "termo": "presente de comunhão",
+      "termo_nativo": "regalo comunione",
+      "pais": "IT",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 55,
+      "termo": "presente de comunhão",
+      "termo_nativo": "cadeau communion",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 24
+    },
+    {
+      "id": 56,
+      "termo": "presente de comunhão",
+      "termo_nativo": "cadeau communion",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 57,
+      "termo": "presente de comunhão",
+      "termo_nativo": "Kommunion Geschenk",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 9
+    },
+    {
+      "id": 58,
+      "termo": "presente de comunhão",
+      "termo_nativo": "Kommunion Geschenk",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 59,
+      "termo": "presente de comunhão",
+      "termo_nativo": "prezent na komunię",
+      "pais": "PL",
+      "status": "ACTIVE",
+      "total": 43
+    },
+    {
+      "id": 60,
+      "termo": "presente de comunhão",
+      "termo_nativo": "prezent na komunię",
+      "pais": "PL",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 61,
+      "termo": "presente de batizado",
+      "termo_nativo": "baptism gift",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 467
+    },
+    {
+      "id": 62,
+      "termo": "presente de batizado",
+      "termo_nativo": "baptism gift",
+      "pais": "US",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 63,
+      "termo": "presente de batizado",
+      "termo_nativo": "baptism gift",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 143
+    },
+    {
+      "id": 64,
+      "termo": "presente de batizado",
+      "termo_nativo": "baptism gift",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 65,
+      "termo": "presente de batizado",
+      "termo_nativo": "baptism gift",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 181
+    },
+    {
+      "id": 66,
+      "termo": "presente de batizado",
+      "termo_nativo": "baptism gift",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 67,
+      "termo": "presente de batizado",
+      "termo_nativo": "baptism gift",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 169
+    },
+    {
+      "id": 68,
+      "termo": "presente de batizado",
+      "termo_nativo": "baptism gift",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 69,
+      "termo": "presente de batizado",
+      "termo_nativo": "regalo bautizo",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 49
+    },
+    {
+      "id": 70,
+      "termo": "presente de batizado",
+      "termo_nativo": "regalo bautizo",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 71,
+      "termo": "presente de batizado",
+      "termo_nativo": "regalo bautizo",
+      "pais": "MX",
+      "status": "ACTIVE",
+      "total": 164
+    },
+    {
+      "id": 72,
+      "termo": "presente de batizado",
+      "termo_nativo": "regalo bautizo",
+      "pais": "MX",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 73,
+      "termo": "presente de batizado",
+      "termo_nativo": "regalo battesimo",
+      "pais": "IT",
+      "status": "ACTIVE",
+      "total": 105
+    },
+    {
+      "id": 74,
+      "termo": "presente de batizado",
+      "termo_nativo": "regalo battesimo",
+      "pais": "IT",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 75,
+      "termo": "presente de batizado",
+      "termo_nativo": "cadeau baptême",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 127
+    },
+    {
+      "id": 76,
+      "termo": "presente de batizado",
+      "termo_nativo": "cadeau baptême",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 77,
+      "termo": "presente de batizado",
+      "termo_nativo": "Taufgeschenk",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 11
+    },
+    {
+      "id": 78,
+      "termo": "presente de batizado",
+      "termo_nativo": "Taufgeschenk",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    },
+    {
+      "id": 79,
+      "termo": "presente de batizado",
+      "termo_nativo": "prezent na chrzest",
+      "pais": "PL",
+      "status": "ACTIVE",
+      "total": 126
+    },
+    {
+      "id": 80,
+      "termo": "presente de batizado",
+      "termo_nativo": "prezent na chrzest",
+      "pais": "PL",
+      "status": "INACTIVE",
+      "erro": "não consultado: contagem de inativos poluída por anúncios de novela, não mede o nicho"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "generated_at": "2026-10-12T01:23:08.699Z",
+  "rule": "Carrossel completo da PDP do concorrente campeão escolhido por produto. Se o carrossel real tiver mais que o teto (12, ou o \"cap\" declarado no build.json pra esse produto), a amostra é espaçada (primeiro + último inclusos), declarada em amostrado/total_real.",
+  "products": [
+    {
+      "product_handle": "granddaughter-pearl-cross-gift-set",
+      "competitor": "Sugar Spring",
+      "competitor_product_title": "To My Granddaughter - Forever Love Gift Set - SS523",
+      "competitor_page": "https://sugarspring.co/products/to-my-granddaughter-forever-love-gift-set-ss523",
+      "competitor_json": "https://sugarspring.co/products/to-my-granddaughter-forever-love-gift-set-ss523.js",
+      "real_carousel_count": 6,
+      "downloaded_carousel_count": 6,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955126784241.jpg?v=1762460197",
+          "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+          "bytes": 198026
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955126882545.jpg?v=1686587358",
+          "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+          "bytes": 160684
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955231346929.jpg?v=1686588617",
+          "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+          "bytes": 133892
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955175248113.jpg?v=1686588484",
+          "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+          "bytes": 148043
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955134845169.jpg?v=1686588484",
+          "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+          "bytes": 105447
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-love-gift-set-ss523-38955134746865.jpg?v=1686588484",
+          "alt": "Jewelry To My Granddaughter - Forever Love Gift Set - SS523",
+          "bytes": 52173
+        }
+      ]
+    },
+    {
+      "product_handle": "grandson-cross-chain-gift-set",
+      "competitor": "Worth Is You",
+      "competitor_product_title": "To My Grandson - \"Proud of You, Always\" Artisan Cross Cuban Link Chain Gift Set – GS01v3",
+      "competitor_page": "https://worthisyou.com/products/to-my-grandson-proud-of-you-always-artisan-cross-cuban-link-chain-gift-set-gs01v3",
+      "competitor_json": "https://worthisyou.com/products/to-my-grandson-proud-of-you-always-artisan-cross-cuban-link-chain-gift-set-gs01v3.js",
+      "real_carousel_count": 7,
+      "downloaded_carousel_count": 7,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/Listing_images_-_2025-11-14T043049.039.png?v=1763066311",
+          "alt": null,
+          "bytes": 1120440
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/Listing_images_-_2025-05-04T102123.774.png?v=1763066498",
+          "alt": null,
+          "bytes": 557849
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_20.png?v=1763066498",
+          "alt": null,
+          "bytes": 1007518
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_23.png?v=1763066498",
+          "alt": null,
+          "bytes": 1014647
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_22.png?v=1763066498",
+          "alt": null,
+          "bytes": 1040529
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/Listing_images_-_2025-05-04T103545.203.png?v=1763066498",
+          "alt": null,
+          "bytes": 1179990
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0915/5107/2559/files/mainimageluxury_21.png?v=1763066498",
+          "alt": null,
+          "bytes": 956505
+        }
+      ]
+    },
+    {
+      "product_handle": "goddaughter-baptism-cross-keepsake",
+      "competitor": "Lainly",
+      "competitor_product_title": "Crown Cross Necklace",
+      "competitor_page": "https://lainly.com/products/cross-crown-necklace",
+      "competitor_json": "https://lainly.com/products/cross-crown-necklace.js",
+      "real_carousel_count": 8,
+      "downloaded_carousel_count": 8,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/HeroCrownNecklace_530add7f-cbda-43b0-83ba-7ecceb26cbde.webp?v=1790191362",
+          "alt": null,
+          "bytes": 115426
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleCrownNecklace30YO.webp?v=1790203764",
+          "alt": null,
+          "bytes": 465882
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceCrownNecklace_6b31a4a1-f753-457c-ba54-135f5d27a11b.webp?v=1790191362",
+          "alt": null,
+          "bytes": 297487
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleSilverCrownNecklace30YO.webp?v=1790203764",
+          "alt": null,
+          "bytes": 500636
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceSilverCrownNecklace_bfa721a9-2e34-4ee5-9f24-fa081a949128.webp?v=1790191362",
+          "alt": null,
+          "bytes": 321710
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleRoseGoldCrownNecklace30YO.webp?v=1790203764",
+          "alt": null,
+          "bytes": 515264
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceRoseGoldCrownNecklace_3d34200d-48b2-47ab-ade9-0ab2a0f24e13.webp?v=1790191362",
+          "alt": null,
+          "bytes": 343103
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/WaterproofCrownNecklace30YO.webp?v=1790203764",
+          "alt": null,
+          "bytes": 536777
+        }
+      ]
+    },
+    {
+      "product_handle": "mom-guardian-angel-necklace",
+      "competitor": "Lunavere",
+      "competitor_product_title": "Pearl of Grace Necklace",
+      "competitor_page": "https://lunavere.com/products/pearl-of-grace-necklace",
+      "competitor_json": "https://lunavere.com/products/pearl-of-grace-necklace.js",
+      "real_carousel_count": 17,
+      "downloaded_carousel_count": 12,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/cm_-_Buy_1_Get_1_FREE_5.png?v=1774749898",
+          "alt": "#color_gold",
+          "bytes": 1083148
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/POG_PIC_4_-_4_features_2048_x_2048_px.png?v=1774749898",
+          "alt": "#color_gold",
+          "bytes": 3165449
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Gold-Updated-Join5_000Women_2048x2048px.png?v=1780286852",
+          "alt": "#color_gold",
+          "bytes": 3699136
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/151.png?v=1774599128",
+          "alt": "#color_gold",
+          "bytes": 1049134
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/358.png?v=1773989468",
+          "alt": "#color_gold",
+          "bytes": 1106302
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/150.png?v=1773989468",
+          "alt": "#color_gold",
+          "bytes": 1143478
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image1.png?v=1777552849",
+          "alt": "#color_silver",
+          "bytes": 1130341
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image2.png?v=1777552850",
+          "alt": "#color_silver",
+          "bytes": 3992052
+        },
+        {
+          "position": 9,
+          "original_index_no_carrossel_real": 13,
+          "file": "carrossel-concorrente/referencia-09.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image4.png?v=1777552850",
+          "alt": "#color_silver",
+          "bytes": 3319758
+        },
+        {
+          "position": 10,
+          "original_index_no_carrossel_real": 14,
+          "file": "carrossel-concorrente/referencia-10.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image5.png?v=1777552850",
+          "alt": "#color_silver",
+          "bytes": 2194218
+        },
+        {
+          "position": 11,
+          "original_index_no_carrossel_real": 16,
+          "file": "carrossel-concorrente/referencia-11.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image7.png?v=1777552849",
+          "alt": "#color_silver",
+          "bytes": 1194246
+        },
+        {
+          "position": 12,
+          "original_index_no_carrossel_real": 17,
+          "file": "carrossel-concorrente/referencia-12.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0862/7916/0155/files/Image8.png?v=1777552850",
+          "alt": "#color_silver",
+          "bytes": 3246287
+        }
+      ]
+    },
+    {
+      "product_handle": "memorial-angel-wing-cross",
+      "competitor": "Wavao",
+      "competitor_product_title": "Religious Graduation Gift for Him – 5th Grade to College Gift with Card",
+      "competitor_page": "https://wavao.com/products/religious-graduation-gift-for-him-5th-grade-to-college-gift-with-card",
+      "competitor_json": "https://wavao.com/products/religious-graduation-gift-for-him-5th-grade-to-college-gift-with-card.js",
+      "real_carousel_count": 14,
+      "downloaded_carousel_count": 12,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/8_cf39b6d6-5b64-4795-83c4-efec5a99d6d2.jpg?v=1747972592",
+          "alt": null,
+          "bytes": 79185
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/Graduation-03.jpg?v=1747972592",
+          "alt": null,
+          "bytes": 145162
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/Graduation-02_7aa5f5c7-c822-4b90-b9f3-8c5f8805ea43.jpg?v=1747972592",
+          "alt": null,
+          "bytes": 89782
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/Graduation-07.jpg?v=1747972592",
+          "alt": null,
+          "bytes": 171430
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/6_3ec50304-b477-40a1-a980-3b2a7179e6a5.jpg?v=1747972592",
+          "alt": null,
+          "bytes": 81374
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/51_0a6e6125-19d3-4c68-89c6-ff06bae3b7eb.jpg?v=1747972587",
+          "alt": null,
+          "bytes": 90000
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-07.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/53_9faf240d-0154-4f6e-a287-48c44ffbadf0.jpg?v=1747972587",
+          "alt": null,
+          "bytes": 85471
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-08.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/21_891e54d8-4e85-4f13-b9b8-ca1c3261edbc.jpg?v=1747972587",
+          "alt": null,
+          "bytes": 89973
+        },
+        {
+          "position": 9,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-09.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/23_49773fd3-80c9-48e9-b590-af23bb19cb7d.jpg?v=1747972587",
+          "alt": null,
+          "bytes": 85383
+        },
+        {
+          "position": 10,
+          "original_index_no_carrossel_real": 12,
+          "file": "carrossel-concorrente/referencia-10.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/38_dded563a-b813-44bb-a5d3-cec329408b2b.jpg?v=1747972587",
+          "alt": null,
+          "bytes": 85603
+        },
+        {
+          "position": 11,
+          "original_index_no_carrossel_real": 13,
+          "file": "carrossel-concorrente/referencia-11.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/66.jpg?v=1747972587",
+          "alt": null,
+          "bytes": 88620
+        },
+        {
+          "position": 12,
+          "original_index_no_carrossel_real": 14,
+          "file": "carrossel-concorrente/referencia-12.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0274/2855/2802/files/68.jpg?v=1747972587",
+          "alt": null,
+          "bytes": 84167
+        }
+      ]
+    },
+    {
+      "product_handle": "mahogany-led-gift-box",
+      "competitor": "Sugar Spring",
+      "competitor_product_title": "To My Granddaughter - Forever Linked Hearts - Gift Set - SS117",
+      "competitor_page": "https://sugarspring.co/products/to-my-granddaughter-interlocked-hearts-gift-set-ss117",
+      "competitor_json": "https://sugarspring.co/products/to-my-granddaughter-interlocked-hearts-gift-set-ss117.js",
+      "real_carousel_count": 6,
+      "downloaded_carousel_count": 6,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-to-my-granddaughter-forever-linked-hearts-gift-set-ss117-1193184573.jpg?v=1758056110",
+          "alt": "Jewelry To My Granddaughter - Forever Linked Hearts - Gift Set - SS117",
+          "bytes": 158833
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/products/jewelry-to-my-granddaughter-interlocked-hearts-gift-set-ss117-38550542024945.jpg?v=1758049930",
+          "alt": "Jewelry To My Granddaughter - Interlocked Hearts Gift Set - SS117",
+          "bytes": 160782
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/files/jewelry-limited-edition-to-my-granddaughter-forever-linked-gift-set-ss117-40306024808689.jpg?v=1758049930",
+          "alt": "Jewelry [LIMITED EDITION] To My Granddaughter - Forever Linked - Gift Set - SS117",
+          "bytes": 110215
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/products/jewelry-to-my-granddaughter-interlocked-hearts-gift-set-ss117-38550542352625.jpg?v=1758049930",
+          "alt": "Jewelry To My Granddaughter - Interlocked Hearts Gift Set - SS117",
+          "bytes": 110515
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/products/jewelry-to-my-granddaughter-interlocked-hearts-gift-set-ss117-38550541861105.jpg?v=1758049930",
+          "alt": "Jewelry To My Granddaughter - Interlocked Hearts Gift Set - SS117",
+          "bytes": 61609
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0624/8428/3633/products/jewelry-to-my-granddaughter-interlocked-hearts-gift-set-ss117-38550542582001.jpg?v=1758049930",
+          "alt": "Jewelry To My Granddaughter - Interlocked Hearts Gift Set - SS117",
+          "bytes": 150648
+        }
+      ]
+    },
+    {
+      "product_handle": "matching-cross-bracelet",
+      "competitor": "Lainly",
+      "competitor_product_title": "Sideways Cross Bracelet",
+      "competitor_page": "https://lainly.com/products/sideways-cross-bracelet",
+      "competitor_json": "https://lainly.com/products/sideways-cross-bracelet.js",
+      "real_carousel_count": 6,
+      "downloaded_carousel_count": 6,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/HeroSidewaysBracelet_4a6edd91-68dd-4ae9-9dcd-adc7a5fa219c.webp?v=1790964287",
+          "alt": null,
+          "bytes": 99749
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleSidewaysBracelet_c3be66d0-87a8-4ffd-ac1c-bc994afbc4f3.webp?v=1790964287",
+          "alt": null,
+          "bytes": 473214
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceSidewaysBracelet_9dcbd6a2-bf71-47fd-9aac-a4dc866f2307.webp?v=1790964287",
+          "alt": null,
+          "bytes": 409072
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/LifestyleSilverSidewaysBracelet_631294f1-6cb0-494e-ad36-cff8a035d5ef.webp?v=1790964287",
+          "alt": null,
+          "bytes": 545431
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/SurfaceSilverSidewaysBracelet_d969dbcc-5676-475c-896a-3ab4ae301197.webp?v=1790964287",
+          "alt": null,
+          "bytes": 400630
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0930/1858/7481/files/WaterproofSidewaysBracelet_af4d7f1c-1b92-4e45-8a22-44773d325a50.webp?v=1790964287",
+          "alt": null,
+          "bytes": 493470
+        }
+      ]
+    }
+  ]
+}

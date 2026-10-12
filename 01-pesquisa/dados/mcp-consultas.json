@@ -1,0 +1,984 @@
+{
+  "geradoEm": "2026-10-12T00:44:03.222Z",
+  "termos": [
+    "joia (amplo)",
+    "colar de cruz",
+    "joia religiosa"
+  ],
+  "paises": [
+    "US",
+    "GB",
+    "CA",
+    "AU",
+    "ES",
+    "MX",
+    "IT",
+    "FR",
+    "DE",
+    "PL"
+  ],
+  "pedido": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante",
+  "total": 60,
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "joia (amplo)",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": true,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 2,
+      "termo": "joia (amplo)",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 3,
+      "termo": "joia (amplo)",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 4,
+      "termo": "joia (amplo)",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 5,
+      "termo": "joia (amplo)",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 6,
+      "termo": "joia (amplo)",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 7,
+      "termo": "joia (amplo)",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 8,
+      "termo": "joia (amplo)",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 9,
+      "termo": "joia (amplo)",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 10,
+      "termo": "joia (amplo)",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 11,
+      "termo": "joia (amplo)",
+      "pais": "MX",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "MX"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 12,
+      "termo": "joia (amplo)",
+      "pais": "MX",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "MX"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 13,
+      "termo": "joia (amplo)",
+      "pais": "IT",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "IT"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 14,
+      "termo": "joia (amplo)",
+      "pais": "IT",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "IT"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 15,
+      "termo": "joia (amplo)",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 16,
+      "termo": "joia (amplo)",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 17,
+      "termo": "joia (amplo)",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 18,
+      "termo": "joia (amplo)",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 19,
+      "termo": "joia (amplo)",
+      "pais": "PL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "PL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 20,
+      "termo": "joia (amplo)",
+      "pais": "PL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia (amplo)",
+        "countries": [
+          "PL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 21,
+      "termo": "colar de cruz",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 22,
+      "termo": "colar de cruz",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 23,
+      "termo": "colar de cruz",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 24,
+      "termo": "colar de cruz",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 25,
+      "termo": "colar de cruz",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 26,
+      "termo": "colar de cruz",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 27,
+      "termo": "colar de cruz",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 28,
+      "termo": "colar de cruz",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 29,
+      "termo": "colar de cruz",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 30,
+      "termo": "colar de cruz",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 31,
+      "termo": "colar de cruz",
+      "pais": "MX",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "MX"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 32,
+      "termo": "colar de cruz",
+      "pais": "MX",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "MX"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 33,
+      "termo": "colar de cruz",
+      "pais": "IT",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "IT"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 34,
+      "termo": "colar de cruz",
+      "pais": "IT",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "IT"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 35,
+      "termo": "colar de cruz",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 36,
+      "termo": "colar de cruz",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 37,
+      "termo": "colar de cruz",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 38,
+      "termo": "colar de cruz",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 39,
+      "termo": "colar de cruz",
+      "pais": "PL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "PL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 40,
+      "termo": "colar de cruz",
+      "pais": "PL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "colar de cruz",
+        "countries": [
+          "PL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 41,
+      "termo": "joia religiosa",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 42,
+      "termo": "joia religiosa",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 43,
+      "termo": "joia religiosa",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 44,
+      "termo": "joia religiosa",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 45,
+      "termo": "joia religiosa",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 46,
+      "termo": "joia religiosa",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 47,
+      "termo": "joia religiosa",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 48,
+      "termo": "joia religiosa",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 49,
+      "termo": "joia religiosa",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 50,
+      "termo": "joia religiosa",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 51,
+      "termo": "joia religiosa",
+      "pais": "MX",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "MX"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 52,
+      "termo": "joia religiosa",
+      "pais": "MX",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "MX"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 53,
+      "termo": "joia religiosa",
+      "pais": "IT",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "IT"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 54,
+      "termo": "joia religiosa",
+      "pais": "IT",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "IT"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 55,
+      "termo": "joia religiosa",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 56,
+      "termo": "joia religiosa",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 57,
+      "termo": "joia religiosa",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 58,
+      "termo": "joia religiosa",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 59,
+      "termo": "joia religiosa",
+      "pais": "PL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "PL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    },
+    {
+      "id": 60,
+      "termo": "joia religiosa",
+      "pais": "PL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "joia religiosa",
+        "countries": [
+          "PL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de joias religiosas para o mercado global, nivel iniciante"
+      }
+    }
+  ]
+}
